@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+SQLAlchemy
+psycopg[binary]
+pydantic
+python-dotenv
+openai
+argon2-cffi
+httpx
+email-validator
+langchain
+langchain-openai
